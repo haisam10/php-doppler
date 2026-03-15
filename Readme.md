@@ -2,7 +2,7 @@
 
 PHP-Doppler is a lightweight PHP-based web shell designed for security research and penetration testing.  
 It provides a web interface to interact with a server, execute commands, and manage files remotely.
-<img width="500px" src="https://raw.githubusercontent.com/haisam10/sql-doppler/refs/heads/main/Black%20Baccara%20Rose.jpg"/>
+
 ---
 
 ## ⚠ Disclaimer
