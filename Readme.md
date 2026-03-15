@@ -43,7 +43,7 @@ PHP-Doppler uses a simple **Bootstrap-based dark UI** with:
 
 ---
 
-- ❤️ Made in Bangladesh
+❤️ Made in Bangladesh
 
 - PHP-Doppler
 - Version: 1.0
@@ -51,7 +51,7 @@ PHP-Doppler uses a simple **Bootstrap-based dark UI** with:
 
 ---
 
-- 👨‍💻 Developer
+👨‍💻 Developer
 
 - Md Haisam Hoque
 
